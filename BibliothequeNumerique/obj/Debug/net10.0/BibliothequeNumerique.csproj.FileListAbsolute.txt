@@ -1,0 +1,14 @@
+/Users/mr/Desktop/BibliothequeNumerique/bin/Debug/net10.0/BibliothequeNumerique
+/Users/mr/Desktop/BibliothequeNumerique/bin/Debug/net10.0/BibliothequeNumerique.deps.json
+/Users/mr/Desktop/BibliothequeNumerique/bin/Debug/net10.0/BibliothequeNumerique.runtimeconfig.json
+/Users/mr/Desktop/BibliothequeNumerique/bin/Debug/net10.0/BibliothequeNumerique.dll
+/Users/mr/Desktop/BibliothequeNumerique/bin/Debug/net10.0/BibliothequeNumerique.pdb
+/Users/mr/Desktop/BibliothequeNumerique/obj/Debug/net10.0/BibliothequeNumerique.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mr/Desktop/BibliothequeNumerique/obj/Debug/net10.0/BibliothequeNumerique.AssemblyInfoInputs.cache
+/Users/mr/Desktop/BibliothequeNumerique/obj/Debug/net10.0/BibliothequeNumerique.AssemblyInfo.cs
+/Users/mr/Desktop/BibliothequeNumerique/obj/Debug/net10.0/BibliothequeNumerique.csproj.CoreCompileInputs.cache
+/Users/mr/Desktop/BibliothequeNumerique/obj/Debug/net10.0/BibliothequeNumerique.dll
+/Users/mr/Desktop/BibliothequeNumerique/obj/Debug/net10.0/refint/BibliothequeNumerique.dll
+/Users/mr/Desktop/BibliothequeNumerique/obj/Debug/net10.0/BibliothequeNumerique.pdb
+/Users/mr/Desktop/BibliothequeNumerique/obj/Debug/net10.0/BibliothequeNumerique.genruntimeconfig.cache
+/Users/mr/Desktop/BibliothequeNumerique/obj/Debug/net10.0/ref/BibliothequeNumerique.dll
